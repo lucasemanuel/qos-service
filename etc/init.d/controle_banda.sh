@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#GET
 # remove qualquer pré-configuração existente
 tc qdisc del dev eth0 root
 
